@@ -224,27 +224,16 @@ FROM undernutrition_data;
 
 
 
----
 
-##  Screenshots
-
-> Add saved visuals of the dashboard here (optional)
-
-```
-
-
-```
-
----
 
 ## Author
 
 **Gautam Kumar**  
- Data Analyst & Educator  
- [LinkedIn](https://www.linkedin.com/in/gautam-kumar-2935bb178/)
-
----
-
+ [LinkedIn](https://www.linkedin.com/in/gautam-kumar-2935bb178/) 
 ##  License
 
-This project is for educational and professional portfolio purposes based on public data from PRSIndia.org.
+This project is for educational and professional portfolio purposes based on public data from PRSIndia.org. 
+
+
+
+
