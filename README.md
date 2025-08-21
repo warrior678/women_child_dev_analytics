@@ -277,7 +277,9 @@ Open to collaboration on dashboarding, policy modeling, and regional deep-dives.
 
 ---
 
-📌 *This project is part of a portfolio focused on real-world analytics with social impact. Built and maintained by Gautam.*
+📌 *This project is part of a portfolio focused on real-world analytics with social impact. Built and maintained by Gautam.* 
+Added README to the ai_studio_prompt folder to summarize project goals, datasets, insights, and next steps
+Linked the AI Studio folder in the README for recruiter visibility
 
 
 
