@@ -342,7 +342,8 @@ These statistics provide the "why" behind the poor health and education outcomes
 
 ### **Overall Statistical Conclusion**
 
-The primary statistical outcome of this project is the **quantification of a major disconnect between policy allocation and real-world impact**. The data proves that significant financial budgets are not translating into better outcomes due to quantifiable failures in scheme implementation, administrative bottlenecks (chronic under-spending), and a severe deficit in foundational infrastructure.
+The primary statistical outcome of this project is the **quantification of a major disconnect between policy allocation and real-world impact**. The data proves that significant financial budgets are not translating into better outcomes due to quantifiable failures in scheme implementation, administrative bottlenecks (chronic under-spending), and a severe deficit in foundational infrastructure. 
+
 
 
 
