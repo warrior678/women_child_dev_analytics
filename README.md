@@ -220,7 +220,14 @@ FROM nirbhaya_fund_utilisation;
 -- 7. Cumulative sum of stunted %
 SELECT state_ut, stunted,
        SUM(stunted) OVER (ORDER BY stunted DESC) AS cumulative_stunted
-FROM undernutrition_data; # Women & Child Development Analytics 🇮🇳
+FROM undernutrition_data; # Women & Child Development Analytics 🇮🇳 
+This is the reflection of the work of my analytics, which I have done in this project.
+ 1. What is the trend in maternal mortality across Indian states?
+     Using the data, we observed that states like Bihar and Jharkhand have significantly higher maternal mortality rates compared to Kerala and Goa. This suggests disparities in healthcare access and maternal support systems.
+ 2. How has child malnutrition changed between 2015–16 and 2019–21?
+     From, All-India malnutrition rates dropped from 36% to 32%. Urban areas improved from 29% to 26%, and rural areas from 38% to 33%, indicating modest progress but persistent rural gaps.  
+    
+
 
 This project analyzes publicly available datasets from the Ministry of Women & Child Development (MoWCD), focusing on health, education, and budget indicators across Indian states. It aims to uncover trends, disparities, and underutilization of schemes to inform data-driven policy decisions.
 
