@@ -57,6 +57,10 @@ https://onedrive.live.com/personal/3ee64ada73406c9d/_layouts/15/doc2.aspx?resid=
 -  Bar charts and data summaries
 -  SQL queries categorized by difficulty (great for practice)
 -  Focus on women and child-centric policy indicators
+-  Statistical Insights
+-  Budget1 PNG
+-  Malnutrition PNG
+-  Mortality Indicators PNG
 
 ---
 
