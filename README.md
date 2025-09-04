@@ -229,7 +229,8 @@ This is the reflection of the work of my analytics, which I have done in this pr
     
 
 
-This project analyzes publicly available datasets from the Ministry of Women & Child Development (MoWCD), focusing on health, education, and budget indicators across Indian states. It aims to uncover trends, disparities, and underutilization of schemes to inform data-driven policy decisions.
+This project analyzes publicly available datasets from the Ministry of Women & Child Development (MoWCD), focusing on health, education, and budget indicators across Indian states. It aims to uncover trends, disparities, and underutilization of schemes to inform data-driven policy decisions. 
+
 
 ---
 
@@ -346,6 +347,24 @@ These statistics provide the "why" behind the poor health and education outcomes
     *   **35% of Anganwadi Centres lack functional toilets**.
     *   **36% of Anganwadi Centres lack drinking water facilities**.
 *   **Increasing Crime Rate:** The crime rate against women has statistically worsened, increasing from **42 per 100,000** female population in 2012 to **66 in 2022**.
+*   Here is the statistical analysis that I have done in this project.
+*   1.Maternal & Infant Mortality( Global Maternal infant mortality.csv)
+*   Statistical Observations.
+*   Highest maternal mortality: Bihar (63), Jharkhand (59), Chhattisgarh (61)
+*   Lowest maternal mortality: Kerala (19), Goa (24)
+*   Infant mortality also follows a similar pattern, with Bihar and Assam exceeding 40 per 1000 live births.
+Outcome: States with poor maternal health infrastructure consistently show elevated infant mortality, suggesting a strong correlation between maternal care and child survival.
+2. Malnutrition Trends( Malnutrition_by_year.csv)
+Statistical Observations.
+*  All-India underweight prevalence dropped from 36% (2015–16) to 32% (2019–21)
+*  Urban: 29% → 26%; Rural: 38% → 33%
+*  Change: Rural areas saw the largest improvement (-5%)
+Outcome: While malnutrition is declining, rural India still lags behind urban regions, indicating the need for targeted nutritional interventions.
+3. Anaemia Prevalence (Anaemia_women_children.csv)
+Statistical Observations.
+* Over 50% of women and children in several states are anaemic.
+* Anaemia rates remain high despite national supplementation programs.
+Outcome: Nutritional programs may be underperforming or poorly targeted. There's a need for better awareness and monitoring mechanisms.     
 
 ### **Overall Statistical Conclusion**
 
