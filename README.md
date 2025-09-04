@@ -61,6 +61,14 @@ https://onedrive.live.com/personal/3ee64ada73406c9d/_layouts/15/doc2.aspx?resid=
 -  Budget1 PNG
 -  Malnutrition PNG
 -  Mortality Indicators PNG
+-  <img width="1200" height="600" alt="Budget1 PNG" src="https://github.com/user-attachments/assets/945aa193-065d-4f8c-b873-82812abaf150" />
+-<img width="1000" height="600" alt="Malnutrition" src="https://github.com/user-attachments/assets/b47ac237-f361-473b-82de-a986bb6b68c5" />
+- <img width="1000" height="600" alt="Bihar vs Maharashtra" src="https://github.com/user-attachments/assets/ee329f5c-b15c-415a-b043-b733a0ae3725" />
+- <img width="1000" height="600" alt="Mortality Indicators" src="https://github.com/user-attachments/assets/0c783c35-06f5-4fc7-b7d4-7566588bf216" />
+
+
+
+
 
 ---
 
