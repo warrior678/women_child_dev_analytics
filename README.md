@@ -17,7 +17,8 @@ This project visualizes critical data on undernutrition, girl child education, f
 | `sql_queries.sql` | 25 categorized SQL questions (Easy, Medium, Hard) |
 | `README.md` | Project documentation |
 | `requirements.txt` | Python libraries used |
-| `screenshots/` | Folder for preview images of app |
+| `screenshots/` | Folder for preview images of app | 
+|  Statistical insights.md | Folders for preview of Statistics analysis |
 
 ---
 
